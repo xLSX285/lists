@@ -840,3 +840,4 @@ xd.adobe.com
 xdce.adobe.io
 spclient.wg.spotify.com
 cs11.wpc.v0cdn.net
+cs1137.wpc.gammacdn.net
