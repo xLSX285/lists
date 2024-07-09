@@ -838,3 +838,4 @@ wwwimages2.adobe.com
 xd-cdn.adobecces.com
 xd.adobe.com
 xdce.adobe.io
+spclient.wg.spotify.com
