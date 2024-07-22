@@ -880,3 +880,5 @@ config.edge.skype.com
 evoke-windowsservices-tas.msedge.net
 cdn.onenote.net
 tile-service.weather.microsoft.com
+dns.google
+ecs.office.com
