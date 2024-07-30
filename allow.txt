@@ -26,3 +26,4 @@ ad.doubleclick.net
 stags.bluekai.com
 spclient.wg.spotify.com
 video-private.strpst.com
+js.stripe.com	
