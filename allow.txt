@@ -27,3 +27,4 @@ stags.bluekai.com
 spclient.wg.spotify.com
 video-private.strpst.com
 js.stripe.com	
+click.discord.com	
