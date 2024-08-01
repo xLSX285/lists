@@ -29,3 +29,4 @@ video-private.strpst.com
 js.stripe.com	
 click.discord.com	
 assets.adobedtm.com
+jpg1.su	
