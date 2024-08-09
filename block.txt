@@ -556,8 +556,8 @@ cc-api-assets.adobe.io
 cc-api-behance.adobe.io
 cc-api-cp.adobe.io
 cc-api-data.adobe.io
-cc-api-image-x.adobe.io/agctosvg
-cc-api-image.adobe.io/createagc
+cc-api-image-x.adobe.io
+cc-api-image.adobe.io
 cc-api-sharedproductions-prerelease.adobe.io
 cc-api-storage.adobe.io
 cc-api-teamprojects-an1.adobe.io
@@ -615,7 +615,7 @@ developer.adobe.com
 digicert.com
 digitalpublishing.acrobat.com
 dnzuu5synxxfk.cloudfront.net
-docs.aws.amazon.com/general/latest/gr/
+docs.aws.amazon.com
 dpm.demdex.net
 drm.frame.io
 ds-an1.adobe.io
@@ -657,7 +657,7 @@ hbrt.adobe.com
 helpx.adobe.com
 hl2rcv.adobe.com
 hlrcv.stage.adobe.com
-http://armdl.adobe.com/
+armdl.adobe.com/
 ic.adobe.io
 ids-proxy.account.adobe.com
 illustrator.adobe.com
@@ -823,7 +823,6 @@ www-prod.adobesunbreak.com
 www.adobe.com
 www.adobeereg.com
 www.adobeexchange.com
-www.adobeexchange.com/api
 www.adobetag.com
 www.everestjs.net
 www.googleadservices.com
